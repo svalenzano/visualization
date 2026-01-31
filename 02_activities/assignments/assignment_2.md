@@ -11,7 +11,8 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Example of a good Visualization: 
-      https://datavizproject.com/data-type/proportional-area-chart-icon/
+      https://datavizproject.com/data-type/proportional-area-chart-icon/ 
+      ** This figure does not have its own html, it is the fourth example figure in the list when you click on the link. Apologies for this confusion. 
 
       The purpose of the visualization is to show pasta consumption per year across  European countries. The creators chose to use a proportional area chart which was effective in converying their message of quantity per (perceptual). It is also aesthetically pleasing to look at with the use of color and images (e.g., plates of pasta and flags). It also appears to provide an accurate representation of the data (substansive). In addition, the grouping of kg value, area chart and flag allowed for readibility (Gestalt principles; grouping).
 
@@ -26,7 +27,9 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Given the purpose of this chart is to visualize the annual count of awards and degrees of various faulties and the change across time, I believe a line graph would make more sense and convey the message in a more effective way. Using a line graph, the viewer can follow 8 lines (degrees/awards) and how the annual count of awards changes across time (enrollment). In additions, given there is no similarity between degrees, each colour should be different to avoid confusion or interpretation of similarity between degrees. 
+      Good visualization: There is little room for improvement in this figure. I believe the proportional area chart served its purpose. Perhaps they could add a capation summarizing the message of the data.
+
+      bad visualization: Given the purpose of this chart is to visualize the annual count of awards and degrees of various faulties and the change across time, I believe a line graph would make more sense and convey the message in a more effective way. Using a line graph, the viewer can follow 8 lines (degrees/awards) and how the annual count of awards changes across time (enrollment). In additions, given there is no similarity between degrees, each colour should be different to avoid confusion or interpretation of similarity between degrees. 
 
 
 
